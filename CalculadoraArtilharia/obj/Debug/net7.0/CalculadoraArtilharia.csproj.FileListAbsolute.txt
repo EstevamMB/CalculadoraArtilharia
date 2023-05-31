@@ -1,0 +1,12 @@
+D:\Projetos\TestExerc\CalculadoraArtilharia\bin\Debug\net7.0\CalculadoraArtilharia.deps.json
+D:\Projetos\TestExerc\CalculadoraArtilharia\bin\Debug\net7.0\CalculadoraArtilharia.dll
+D:\Projetos\TestExerc\CalculadoraArtilharia\bin\Debug\net7.0\CalculadoraArtilharia.pdb
+D:\Projetos\TestExerc\CalculadoraArtilharia\obj\Debug\net7.0\CalculadoraArtilharia.csproj.AssemblyReference.cache
+D:\Projetos\TestExerc\CalculadoraArtilharia\obj\Debug\net7.0\CalculadoraArtilharia.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\TestExerc\CalculadoraArtilharia\obj\Debug\net7.0\CalculadoraArtilharia.AssemblyInfoInputs.cache
+D:\Projetos\TestExerc\CalculadoraArtilharia\obj\Debug\net7.0\CalculadoraArtilharia.AssemblyInfo.cs
+D:\Projetos\TestExerc\CalculadoraArtilharia\obj\Debug\net7.0\CalculadoraArtilharia.csproj.CoreCompileInputs.cache
+D:\Projetos\TestExerc\CalculadoraArtilharia\obj\Debug\net7.0\CalculadoraArtilharia.dll
+D:\Projetos\TestExerc\CalculadoraArtilharia\obj\Debug\net7.0\refint\CalculadoraArtilharia.dll
+D:\Projetos\TestExerc\CalculadoraArtilharia\obj\Debug\net7.0\CalculadoraArtilharia.pdb
+D:\Projetos\TestExerc\CalculadoraArtilharia\obj\Debug\net7.0\ref\CalculadoraArtilharia.dll
